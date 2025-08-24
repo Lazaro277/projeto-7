@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    width: 150px;
+    text-align: center;
+}
+
+ul li {
+    background-color: aquamarine;
+    display: flex;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+a:hover {
+    background-color: greenyellow;
+}
